@@ -1,0 +1,14 @@
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\CrossPlatformiOS.exe
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\CrossPlatformiOS.pdb
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.CrossCore.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.CrossCore.Touch.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.Touch.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Localization.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Touch.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\CrossPlatform.Core.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\bin\iPhone\Debug\CrossPlatform.Core.pdb
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\obj\iPhone\Debug\CrossPlatform.iOS.csprojResolveAssemblyReference.cache
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\obj\iPhone\Debug\CrossPlatformiOS.exe
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.iOS\obj\iPhone\Debug\CrossPlatformiOS.pdb

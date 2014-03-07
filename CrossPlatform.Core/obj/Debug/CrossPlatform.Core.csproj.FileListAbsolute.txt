@@ -1,0 +1,9 @@
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\CrossPlatform.Core.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\CrossPlatform.Core.pdb
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\obj\Debug\CrossPlatform.Core.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\obj\Debug\CrossPlatform.Core.pdb
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\CreativeFounds\Projects\XamarinUserGroup\Meetup-March\CrossPlatform.Core\CrossPlatform.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
